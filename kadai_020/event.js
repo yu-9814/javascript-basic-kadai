@@ -4,7 +4,7 @@ Bun.addEventListener('click' , () => {
 
   const h2 = document.getElementById('text');
 
-	h2.textContent = 'ボタンがクリックされました';
+	h2.textContent = 'ボタンをクリックしました';
 	
 	});
 
